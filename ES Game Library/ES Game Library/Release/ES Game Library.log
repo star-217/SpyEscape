@@ -1,0 +1,80 @@
+﻿  StdAfx.cpp
+  GameMain.cpp
+GameMain.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(171): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(176): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(181): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(186): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(191): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(488): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(504): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+GameMain.cpp(566): warning C4244: 'argument' : conversion from 'LONG' to 'float', possible loss of data
+GameMain.cpp(567): warning C4244: 'argument' : conversion from 'LONG' to 'float', possible loss of data
+GameMain.cpp(601): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(607): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(609): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(611): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(626): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(632): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(634): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(636): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(649): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(655): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(657): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(659): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(672): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(678): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(680): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(682): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(699): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(701): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(722): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(816): warning C4244: 'argument' : conversion from 'LONG' to 'float', possible loss of data
+GameMain.cpp(817): warning C4244: 'argument' : conversion from 'LONG' to 'float', possible loss of data
+GameMain.cpp(944): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(971): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(998): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(1030): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(1070): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(1073): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(1129): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+GameMain.cpp(1142): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+GameMain.cpp(1190): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(1191): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+GameMain.cpp(1197): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1199): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1218): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1220): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1345): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+GameMain.cpp(1351): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+GameMain.cpp(1689): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1691): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1698): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1700): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1707): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1709): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1716): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1718): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1725): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1727): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1734): warning C4018: '<' : signed/unsigned mismatch
+GameMain.cpp(1736): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+GameMain.cpp(1768): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1772): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1776): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1783): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1789): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1795): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1801): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1807): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1814): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1820): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+GameMain.cpp(1826): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+  SelectScene.cpp
+LINK : warning C4743: 'const IAnimationModel::`vftable'' has different size in 'C:\Users\kannj\Desktop\�v���O����\DTeam\ES Game Library 2016\ES Game Library\ES Game Library\DirectX\Graphics\DXGraphics9.cpp' and 'C:\Users\kannj\Desktop\�v���O����\DTeam\ES Game Library 2016\ES Game Library\ES Game Library\DirectX\Graphics\AnimationModel.cpp': 248 and 240 bytes
+  Generating code
+  Finished generating code
+  ES Game Library.vcxproj -> C:\Users\kannj\Desktop\プログラム\DTeam\ES Game Library 2016\ES Game Library\Release\ES Game Library.exe
